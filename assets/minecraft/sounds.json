@@ -23,30 +23,5 @@
 		"sounds": [
 			"skycore/music/music5"
 		]
-	},
-	"mcparty.music.6":{
-		"sounds": [
-			"skycore/music/music6"
-		]
-	},
-	"mcparty.music.7":{
-		"sounds": [
-			"skycore/music/music7"
-		]
-	},
-	"mcparty.music.8":{
-		"sounds": [
-			"skycore/music/music8"
-		]
-	},
-	"mcparty.music.9":{
-		"sounds": [
-			"skycore/music/music9"
-		]
-	},
-	"mcparty.music.10":{
-		"sounds": [
-			"skycore/music/music10"
-		]
 	}
 }
