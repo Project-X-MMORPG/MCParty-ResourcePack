@@ -23,5 +23,10 @@
 		"sounds": [
 			"skycore/music/music5"
 		]
+	},
+	"mcparty.music.end":{
+		"sounds": [
+			"skycore/music/end_music"
+		]
 	}
 }
