@@ -1,0 +1,30 @@
+{
+	"providers": [
+		{"file": "skycore_font:icon_lead.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "skycore_font:icon_admin.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "skycore_font:icon_manager.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "skycore_font:icon_senior_game_master.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "skycore_font:icon_game_master.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "skycore_font:icon_junior_game_master.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "skycore_font:icon_staff.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "skycore_font:icon_developer.png","chars": ["\uE230"],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "skycore_font:icon_junior_developer.png","chars": ["\uE231"],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "skycore_font:icon_junior_map_designer.png","chars": ["\uE232"],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "skycore_font:icon_junior_supporter.png","chars": ["\uE233"],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "skycore_font:icon_map_designer.png","chars": ["\uE234"],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "skycore_font:icon_senior_developer.png","chars": ["\uE235"],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "skycore_font:icon_senior_map_designer.png","chars": ["\uE236"],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "skycore_font:icon_senior_supporter.png","chars": ["\uE237"],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "skycore_font:icon_supporter.png","chars": ["\uE238"],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "skycore_font:icon_vip_partner.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "skycore_font:icon_partner.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "skycore_font:icon_creator_plus.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "skycore_font:icon_creator.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "skycore_font:icon_vip.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "skycore_font:icon_master.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "skycore_font:icon_elite.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "skycore_font:icon_pro.png","chars": [	""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "skycore_font:icon_premium.png","chars": [	""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "skycore_font:icon_player.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"}
+	]
+}
